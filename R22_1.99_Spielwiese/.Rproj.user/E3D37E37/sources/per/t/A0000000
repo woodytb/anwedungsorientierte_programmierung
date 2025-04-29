@@ -1,0 +1,26 @@
+{
+    "id": "A0000000",
+    "path": "~/R_Grundkurs_Studium/R22_1.99_Spielwiese/R199_Spielwiese_Grundlagen.R",
+    "project_path": "R199_Spielwiese_Grundlagen.R",
+    "type": "r_source",
+    "hash": "2428456611",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "cursorPosition": "57,57",
+        "scrollLine": "51"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 0,
+    "read_only": false,
+    "read_only_alternatives": []
+}

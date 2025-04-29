@@ -1,0 +1,26 @@
+{
+    "id": "A0000000",
+    "path": "~/R_Grundkurs_Studium/R22_3.5_Fehldaten/R35_Fehldaten_1.R",
+    "project_path": "R35_Fehldaten_1.R",
+    "type": "r_source",
+    "hash": "1790330479",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "cursorPosition": "40,41",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1744217648,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1744217648634,
+    "read_only": false,
+    "read_only_alternatives": []
+}

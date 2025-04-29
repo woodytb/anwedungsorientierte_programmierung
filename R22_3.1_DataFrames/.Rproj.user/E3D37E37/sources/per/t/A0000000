@@ -1,0 +1,27 @@
+{
+    "id": "A0000000",
+    "path": "~/R_Grundkurs_Studium/R22_3.1_DataFrames/R31_DataFrames_1.R",
+    "project_path": "R31_DataFrames_1.R",
+    "type": "r_source",
+    "hash": "3117749659",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "docOutlineSize": "36",
+        "cursorPosition": "38,9",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1744189053,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1744189053367,
+    "read_only": false,
+    "read_only_alternatives": []
+}

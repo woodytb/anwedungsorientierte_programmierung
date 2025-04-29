@@ -1,0 +1,26 @@
+{
+    "id": "A0000000",
+    "path": "~/R_Grundkurs_Studium/R22_4.1_Punktdiagramme/R41_Punktdiagramme_1.R",
+    "project_path": "R41_Punktdiagramme_1.R",
+    "type": "r_source",
+    "hash": "2629745247",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "cursorPosition": "20,50",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1745471528,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1745471528284,
+    "read_only": false,
+    "read_only_alternatives": []
+}

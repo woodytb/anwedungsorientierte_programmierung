@@ -1,0 +1,26 @@
+{
+    "id": "A0000001",
+    "path": "~/R_Grundkurs_Studium/R22_3.2_Matrizen/R32_Matrizen_2.R",
+    "project_path": "R32_Matrizen_2.R",
+    "type": "r_source",
+    "hash": "5546594",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "cursorPosition": "22,42",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1744190150,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1744190150937,
+    "read_only": false,
+    "read_only_alternatives": []
+}

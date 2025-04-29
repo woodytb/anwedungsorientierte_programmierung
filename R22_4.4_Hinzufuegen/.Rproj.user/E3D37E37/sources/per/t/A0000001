@@ -1,0 +1,26 @@
+{
+    "id": "A0000001",
+    "path": "~/R_Grundkurs_Studium/R22_4.4_Hinzufuegen/R44_Hinzufuegen_2.R",
+    "project_path": "R44_Hinzufuegen_2.R",
+    "type": "r_source",
+    "hash": "1695032621",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "cursorPosition": "57,7",
+        "scrollLine": "15"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1745472591,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1745472591415,
+    "read_only": false,
+    "read_only_alternatives": []
+}

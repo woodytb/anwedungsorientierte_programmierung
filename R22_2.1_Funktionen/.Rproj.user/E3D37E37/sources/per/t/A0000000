@@ -1,0 +1,27 @@
+{
+    "id": "A0000000",
+    "path": "~/R_Grundkurs_Studium/R22_2.1_Funktionen/R21_Funktionen_1.R",
+    "project_path": "R21_Funktionen_1.R",
+    "type": "r_source",
+    "hash": "3754352173",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "cursorPosition": "19,50",
+        "scrollLine": "4",
+        "docOutlineSize": "206"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743413547,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743413547999,
+    "read_only": false,
+    "read_only_alternatives": []
+}

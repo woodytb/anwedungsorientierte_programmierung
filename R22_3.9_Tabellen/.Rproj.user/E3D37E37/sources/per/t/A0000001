@@ -1,0 +1,26 @@
+{
+    "id": "A0000001",
+    "path": "~/R_Grundkurs_Studium/R22_3.9_Tabellen/R39_Tabellen_2.R",
+    "project_path": "R39_Tabellen_2.R",
+    "type": "r_source",
+    "hash": "2261525628",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "cursorPosition": "17,31",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743077005,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743077005649,
+    "read_only": false,
+    "read_only_alternatives": []
+}

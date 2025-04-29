@@ -1,0 +1,26 @@
+{
+    "id": "A0000000",
+    "path": "~/R_Grundkurs_Studium/R22_1.2_Hilfe/R12_Hilfe_1.R",
+    "project_path": "R12_Hilfe_1.R",
+    "type": "r_source",
+    "hash": "3829087617",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "cursorPosition": "40,66",
+        "scrollLine": "29"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1742807691,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1742807691342,
+    "read_only": false,
+    "read_only_alternatives": []
+}

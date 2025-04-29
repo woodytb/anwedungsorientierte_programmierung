@@ -1,0 +1,26 @@
+{
+    "id": "A0000002",
+    "path": "~/R_Grundkurs_Studium/R22_2.2_Logik/R22_Logik_3.R",
+    "project_path": "R22_Logik_3.R",
+    "type": "r_source",
+    "hash": "3497530414",
+    "contents": "",
+    "dirty": false,
+    "created": 0.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "docOutlineVisible": "1",
+        "Source": "Source",
+        "cursorPosition": "27,90",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743421051,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743421051120,
+    "read_only": false,
+    "read_only_alternatives": []
+}
